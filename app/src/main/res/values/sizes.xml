@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name = "iconSize"> 130.dp</dimen>
+    <dimen name = "buttonWidth"> 327.dp</dimen>
+    <dimen name = "buttonHeight"> 64.dp</dimen>
+    <dimen name = "reviewerAva"> 50.dp</dimen>
+    <dimen name = "screenshotWidth"> 240.dp</dimen>
+    <dimen name = "screenshotHeight"> 128.dp</dimen>
+    <dimen name = "playButtonCircle"> 48.dp</dimen>
+    <dimen name = "playButtonIcon"> 24.dp</dimen>
+
+
+</resources>
